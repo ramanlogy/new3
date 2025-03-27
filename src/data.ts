@@ -45,7 +45,7 @@ export const places: Place[] =
     description: "Sacred Hindu temple complex along the Bagmati River",
     rating: 4.7,
     reviews: 9876,
-    image: "/assets/Pashupatinath .jpeg",
+    image: "/assets/Pashupatinath.png",
     hours: "4 AM - 9 PM",
     fee: "NPR 1000",
     location: "Kathmandu",
