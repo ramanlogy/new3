@@ -1,4 +1,3 @@
-
 "use client";
 import React, { useState } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
@@ -111,7 +110,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             className="text-3xl md:text-5xl font-bold text-neutral-800 mb-6"
           >
-            Discover Nepal's Hidden Gems
+           Find Things to do in Nepal.
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0, y: -10 }}
@@ -197,7 +196,9 @@ function App() {
                   <img
                     src={place.image}
                     alt={place.name}
-                    className="w-full h-48 object-cover rounded-t-lg"
+                    className="w-full h-auto object-contain rounded-t-lg"
+
+
                   />
 
                   <div className="p-6">
