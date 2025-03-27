@@ -196,7 +196,7 @@ function App() {
                   <img
                     src={place.image}
                     alt={place.name}
-                    className="w-full h-auto object-contain rounded-t-lg"
+                    className="w-full h-auto object-fill rounded-t-lg"
 
 
                   />
