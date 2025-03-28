@@ -123,7 +123,7 @@ export const places: Place[] =
       description: "Scenic lakeside city with stunning Himalayan mountain views",
       rating: 4.7,
       reviews: 11234,
-      image: "/public/assets/phewa.jpeg",
+      image: "https://www.pexels.com/photo/majestic-himalayan-peaks-at-golden-sunset-30439897/",
       hours: "24/7 Tourist Area",
       fee: "Varies by Activity",
       location: "Pokhara",
