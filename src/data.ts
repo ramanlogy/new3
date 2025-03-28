@@ -71,7 +71,7 @@ export const places: Place[] =
       description: "Legendary hiking route to the base of the world's highest mountain",
       rating: 4.9,
       reviews: 15632,
-      image: "/public/assets/everest.jpeg",
+      image: "public/assets/everest.jpeg",
       hours: "Seasonal Trekking (March-May, September-November)",
       fee: "NPR 50,000-100,000 (Guide & Permits)",
       location: "Solukhumbu District",
